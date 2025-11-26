@@ -9,8 +9,16 @@ Python version - 3.13.5
 
 ##Projects included:
 
-Bank.py = The classic banking system to understand OOP
-dice_rolling_game.py = Simple dice rolling game that generates random dice.
-expense_tracker.py = Allows user to track income and expenditure.
-personal_data_manager.py = A code that stores user info like password,name,email etc.
-tictactoe2.py = A simple two-player Tic_Tac_Toe game running in terminal with 2D visuals.
+#tictactoe2.py = A simple two-player Tic_Tac_Toe game running in terminal with 2D visuals.
+
+#Bank.py = The classic banking system to understand OOP
+
+#dice_rolling_game.py = Simple dice rolling game that generates random dice.
+
+#expense_tracker.py = Allows user to track income and expenditure.
+
+#personal_data_manager.py = A code that stores user info like password,name,email etc.
+
+#student_management.py = Manages data of students.
+
+
